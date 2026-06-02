@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravi Shete</h1>
 
-<h3 align="center">☁️ Cloud Engineer | DevOps Enthusiast</h3>
+<h3 align="center">☁️ Cloud & DevOps Engineer | Linux Administrator | AWS & OCI Certified | Docker | GitHub Actions | Terraform Learner | Building Scalable Cloud Infrastructure</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+Engineer;AWS+%7C+Linux+%7C+Docker;CI%2FCD+Automation;Always+Learning+DevOps&center=true&width=500&height=40&color=0A66C2&vCenter=true&size=20" />
