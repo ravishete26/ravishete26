@@ -56,9 +56,13 @@
 
 ## 🏆 Certifications
 
-- Oracle Cloud Infrastructure (OCI) DevOps Professional 2025  
-- Multi-Cloud Networking Fundamentals  
-- Google Cloud DevOps Essentials  
+🏆 Certifications
+
+✔ OCI 2025 DevOps Professional
+✔ Google Cloud Arcade Prime Plus
+✔ Multicloud Network Associate
+✔ Infosys Python Certification
+✔ Cyber Security Program
 
 ---
 
